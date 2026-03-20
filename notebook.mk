@@ -1,0 +1,1 @@
+uv add openai python-dotenv jupyter ipykernel # بحمل كل المكتبات لما بدي اتعامل مع الجوبيتر 
